@@ -10,12 +10,12 @@ This Solidity program is a simple implementation of an erc-20 token with all the
 
 
 ## CONTRACT ADDRESSES (AVAX)
-- DEGEN TOKEN CONTRACT ADDRESSES: [0x80cde7e4ce69e042102affd8f6ad9cc9d072bca5](https://sepolia.etherscan.io/address/0x80cde7e4ce69e042102affd8f6ad9cc9d072bca5#writeContract)
+- DEGEN TOKEN CONTRACT ADDRESSES: [0x77633b94f903AD48c281580f8c87b44e3AaD3077](https://testnet.snowtrace.io/address/0x77633b94f903AD48c281580f8c87b44e3AaD3077#code-43113)
 
 
 ## Executing program
 #### STEP 1
-- NAVIGATE TO THIS PROJECT ON ETHERSCAN BY USING THIS [LINK](https://sepolia.etherscan.io/address/0x80cde7e4ce69e042102affd8f6ad9cc9d072bca5#writeContract)
+- NAVIGATE TO THIS PROJECT ON ETHERSCAN BY USING THIS [LINK](https://testnet.snowtrace.io/address/0x77633b94f903AD48c281580f8c87b44e3AaD3077#code-43113)
 
 #### STEP 2
 - CLONE THE PROJECT INTO REMIX.
